@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "PurgeSMP",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
+    "ip": "PurgeSMP-5P1X.aternos.me",
     "port": 44019,
     "version": "",
     "try-creative": false
